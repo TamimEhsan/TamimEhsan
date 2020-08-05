@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
 - 🌱 I’m currently learning Node backend
 - 👯 I’m looking to collaborate on opensource and group projects.
-Usesless Stats:
+- Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
 - 📱  Number of times I was approached with an app idea: 7 
 
