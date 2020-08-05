@@ -6,13 +6,16 @@
 - 🌱 I’m currently learning Node backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-<!-- ### Connect with me:
+ ### Connect with me:
 
-[<img align="left" alt="github.io/TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br /> -->
+<br /> 
 
 
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true&hide_border=true" />
+
+[website]: https://tamimehsan.github.io/
+[instagram]: https://instagram.com/tamim.ehsan
