@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
