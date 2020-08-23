@@ -1,4 +1,4 @@
-![GIF](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner.jpg)
+![GIF](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
 
 ### Hi there 👋
 
