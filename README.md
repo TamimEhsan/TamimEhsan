@@ -12,7 +12,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 - 🏅 Number of times I was asked to hack a FB : 3
 - 📱  Number of times I was approached with an app idea: 7 
 -->
- ### Connect with me:
+ ## Connect with me:
 
 [<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
@@ -22,7 +22,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 <br /> 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -42,11 +42,11 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 
-### Projects that I contributed to
+## Projects that I contributed to
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
 
-### My Programming Performances
+## My Programming Performances
 
 | Competition Name | 2019 | 2020 | 2021 | 2022 |
 | :----- | :----: | :----: | :----: | :----: |
@@ -54,7 +54,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 | Google Hashcode | - | BUET_NARUTO_RUNNERS <br /> Rank:746/10724 <br /> Country Rank: 4th | - | - |
 | Facebook HackerCup | Qualification Round <br /> Rank:5704 | Round 1 <br /> RanK:2169/13820 | - | - |
 | ICPC | - | Dhaka Regionals <br /> Team:BUET_INVERSE <br /> Rank: 121/1003 | - | - |
-| CF Max Rank | 1651 <br /> <span style="color:red"> **Expert** </span> | 1925 <br /> Candidate Master | - | - |
+| CF Max Rank | 1651 <br />  **Expert**  | 1925 <br /> **Candidate Master** | - | - |
 
 
 [website]: https://tamimehsan.github.io/
