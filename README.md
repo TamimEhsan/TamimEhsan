@@ -3,7 +3,7 @@
 
 [![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
-
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
 ### Hi there 👋
 
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
@@ -44,6 +44,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+
 
 <!--
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
