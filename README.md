@@ -44,7 +44,18 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 ### Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+
+### My Programming Performances
+
+| Competition Name | 2019 | 2020 | 2021 | 2022 |
+| :----- | :----: | :----: | :----: | :----: |
+| Google CodeJam | - | Round 1 <br /> Rank: 8918/9463 | - | - |
+| Google Hashcode | - | BUET_NARUTO_RUNNERS <br /> Rank:746/10724 <br /> Country Rank: 4th | - | - |
+| Facebook HackerCup | Qualification Round <br /> Rank:5704 | Round 1 <br /> RanK:2169/13820 | - | - |
+| ICPC | - | Dhaka Regionals <br /> Team:BUET_INVERSE <br /> Rank: 121/1003 | - | - |
+| CF Max Rank | 1651 <br /> <span style="color:red"> **Expert** </span> | 1925 <br /> Candidate Master | - | - |
+
 
 [website]: https://tamimehsan.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
