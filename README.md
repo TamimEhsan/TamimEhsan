@@ -43,8 +43,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### Projects that I contributed to
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username= ShanjinurIslam &repo=BUET-CSE-Moodle-Web-Scraping)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping)
 [website]: https://tamimehsan.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
 [facebook]: https://www.facebook.com/tamimul.ehsan.9/
