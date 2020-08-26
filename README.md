@@ -57,6 +57,10 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 <br /><br /><br />
 -->
 
+## Live Projects
+
+[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+
 ## Github Overview
 
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
