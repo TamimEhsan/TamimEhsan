@@ -81,7 +81,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 | Google Hashcode | - | BUET_NARUTO_RUNNERS <br /> Rank:746/10724 <br /> Country Rank: 4th | - | - |
 | Facebook HackerCup | Qualification Round <br /> Rank:5704 | Round 1 <br /> RanK:2169/13820 | - | - |
 | ICPC | - | Dhaka Regionals <br /> Team:BUET_INVERSE <br /> Rank: 121/1003 | - | - |
-| CF Max Rank | 1651 <br />  **Expert**  | 1925 <br /> **Candidate Master** | - | - |
+| CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |
 
 
 [website]: https://tamimehsan.github.io/
