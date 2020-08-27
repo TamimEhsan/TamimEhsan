@@ -83,6 +83,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | - | Dhaka Regionals <br /> Team:BUET_INVERSE <br /> Rank: 121/1003 | - | - |
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |
 
+<!-- Place this tag where you want the button to render. -->
+⭐<a class="github-button" href="https://github.com/TamimEhsan/TamimEhsan" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star TamimEhsan/TamimEhsan on GitHub">Star this repository</a>
 
 [website]: https://tamimehsan.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
