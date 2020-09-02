@@ -47,8 +47,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-![Adobe PS](https://img.shields.io/badge/-Adobe%20PPhotoshop-000000?style=flat&logo=adobe%20photoshop)
-![Adobe Ai](https://img.shields.io/badge/-Adobe%20PIllustrator-000000?style=flat&logo=adobe%20illustrator)
+![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
+![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
 
 <!--
