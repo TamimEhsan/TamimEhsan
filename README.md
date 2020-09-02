@@ -44,7 +44,11 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+![Adobe PS](https://img.shields.io/badge/-Adobe%20PPhotoshop-000000?style=flat&logo=adobe%20photoshop)
+![Adobe Ai](https://img.shields.io/badge/-Adobe%20PIllustrator-000000?style=flat&logo=adobe%20illustrator)
 
 
 <!--
