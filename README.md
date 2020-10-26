@@ -94,7 +94,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 | Project Name | Team Name | Competetion Name | Position |
 | :----- | :----: | :----: | :----: | 
-| Satellight | BUET Zenith | NASA Space Apps Challenge 2020 | Regional Champion, Bangladesh |
+| Satellight | [!BUET Zenith](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project) | NASA Space Apps Challenge 2020 | Regional Champion, Bangladesh |
 | BoticaBot | Team Cybertron | MIST Tri-Robo-Cup 2020 | 2nd |
 
 <!-- Place this tag where you want the button to render. -->
