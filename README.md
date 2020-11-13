@@ -67,7 +67,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ## Live Projects
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
-[![Pathfinder](https://img.shields.io/badge/-Pathfinder-0085C0?style=flat&logo=ripple)]( https://tamimehsan.github.io/Pathfinder-2.0)
+[![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
 
 ## Github Overview
 
