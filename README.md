@@ -35,7 +35,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
