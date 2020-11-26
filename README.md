@@ -19,7 +19,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
  ## Connect with me:
 
 [<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+ [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
@@ -107,3 +107,4 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 [instagram]: https://instagram.com/tamim.ehsan
 [facebook]: https://www.facebook.com/tamimul.ehsan.9/
 [codeforces]:https://codeforces.com/profile/TamimEhsan
+[linkedin]:https://www.linkedin.com/in/tamimehsan/
