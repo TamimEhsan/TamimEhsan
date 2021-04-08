@@ -96,7 +96,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 | Project Name | Team Name | Competetion Name | Position | Additional Remarks |
 | :----- | :----: | :----: | :----: | :----: |
-| Satellight | [BUET Zenith](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project) | NASA Space Apps Challenge 2020 | Regional Champion, Bangladesh | Global Finalist |
+| Satellight | [BUET Zenith](https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/buet-zenith/project) | NASA Space Apps Challenge 2020 | Regional Champion, Bangladesh | Global Finalist <br /> Honorable Mention |
 | BoticaBot | Team Cybertron | MIST Tri-Robo-Cup 2020 | 2nd | - |
 | Tuition-E | tamimehsan99_880b |  [Haccelerate 2020](https://www.hackerearth.com/challenges/hackathon/hackccelerate-2020/) | Finalist | Top 14 among 1700+ teams |
 | ML Labs | Memory Leak | HackTheVerse- ITVerse - IIT DU | 4th | Special Mention |
