@@ -1,9 +1,16 @@
-![GIF](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
+![Banner](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
 
 
-[![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
+
+![](https://cp-logo.vercel.app/codeforces/TamimEhsan?logo=true)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
+
+<!-- [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
+[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Skybytskyi.Nikita)
+[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
+[![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
+[![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 ### Hi there 👋
 
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
