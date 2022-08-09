@@ -1,5 +1,25 @@
 Here are all my competitions 
 
+## BUET CSE Fest Hackathon
+
+**Result: `3rd`**
+
+**Team Name:** BUET Beecrypt
+
+**Category:** Web3
+
+**Team members:**
+
+1. Hasan Masum
+2. Jehadul Karim Sabit
+3. Mohammad Tamimul Ehsan
+
+**Result link:** https://m.facebook.com/events/536292318195809?view=permalink&id=560223332469374
+
+Event Date: 4-5 August 2022
+
+Result Published: 8 August 2022
+
 ##  BUET IUPC 2022
 
 **Result: `14th`**
