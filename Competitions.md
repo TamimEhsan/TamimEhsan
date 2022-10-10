@@ -303,6 +303,24 @@ Result Published: 8 August 2022
 
 
 
+## ICPC ASIA DHAKA REGIONAL CONTEST 2021
+
+**Result: `8th`**
+
+**Team Name:** BUET_Berserkers
+
+**Team members:**
+
+1. Ahmed Hossain
+2. Hasanul Islam
+3. Md. Tamimul Ehsan
+
+**Result Link:** https://algo.codemarshal.org/contests/dhaka-21-main/standings
+
+Result Published in 8th October 2022
+
+
+
 
 
 
