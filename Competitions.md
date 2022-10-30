@@ -8,7 +8,7 @@ Here are all my competitions
 
 ## MIST Tri Robo Cup
 
-**Result:** 1st Runners Up
+**Result:** **`1st Runners Up`**
 
 **Team Name:** Cybertron
 
@@ -29,7 +29,7 @@ Result Published in 26th September 2020
 
 ## Hacktheverse (presented by DU IIT)
 
-**Result:** 4th
+**Result:** **`4th`**
 
 **Team Name:** Team Memory Leak
 
@@ -99,7 +99,7 @@ Result Published in 14th August 2021
 
 ## সুবর্ণ জয়ন্তী হ্যাকাথন ২০২১
 
-**Result:** 2nd Runners Up
+**Result:** **`2nd Runners Up`**
 
 **Team Name:** Cybertron
 
@@ -120,7 +120,7 @@ Result Published in 5th November 2021
 
 ## Bikiron
 
-**Result:** Champion
+**Result:** **`Champion`**
 
 **Team Name:** Team Krishi-Bondhu
 
@@ -164,7 +164,7 @@ Result Published in December 2021
 
 ## National STEM Competition 2021
 
-**Result:** Champion
+**Result:** **`Champion`**
 
 **Team Name:** BUET_IDRICO
 
@@ -215,7 +215,7 @@ Result Published in 4th June 2022
 Team members: 
 
 1. Md. Tamimul Ehsan
-2. Jehadul Karim Sabit
+2. Md. Jehadul Karim Sabit
 3. Hasan Masum
 4. Farsia Kawsar Chowdhury
 5. Shorup Chanda
@@ -224,6 +224,8 @@ Team members:
 **Result Link: **[pdf format](https://bcolbd.org/uploads/pdf/BCOLBD%202022%20Winners%20of%20Student%20Category.pdf)
 
 **Media Coverage:**
+
+- [BUET CSE Website](https://cse.buet.ac.bd/news/news.php?newsid=149)
 
 Result Published in 8th June 2022
 
@@ -292,7 +294,7 @@ Competition Aired and result published in 29th June 2022
 **Team members:**
 
 1. Hasan Masum
-2. Jehadul Karim Sabit
+2. Md. Jehadul Karim Sabit
 3. Mohammad Tamimul Ehsan
 
 **Result link:** https://m.facebook.com/events/536292318195809?view=permalink&id=560223332469374
@@ -321,7 +323,25 @@ Result Published in 8th October 2022
 
 
 
+## Affine Blockchain Hackathon 2022
 
+**Result: `Runners Up`**
+
+**Team Name:** BUET Beecrypt
+
+**Project Name:** MediDapp
+
+**Team members:**
+
+1. Hasan Masum
+2. Md. Jehadul Karim Sabit
+3. Mohammad Tamimul Ehsan
+
+**Result link:** 
+
+Event Date: 29-30 October 2022
+
+Result Published: 30 October 2022
 
 
 
