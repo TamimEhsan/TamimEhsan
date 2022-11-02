@@ -345,3 +345,22 @@ Result Published: 30 October 2022
 
 
 
+## BASIS National ICT Award 2022
+
+**Result:** **`Merit`**
+
+**Team Name:** BUET_IDRICO
+
+**Project Name:** Aqua Monitor
+
+**Team Members:**
+
+1. Farsia Kawsar Chowdhury
+2. Shorup Chanda
+3. Mohammad Tamimul Ehsan
+4. Rasul Khan Hamim
+5. Emon Roy Bappi
+
+**Result Link:** 
+
+Result Published in 31th October 2022
