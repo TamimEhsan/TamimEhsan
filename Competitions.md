@@ -97,6 +97,8 @@ Result Published in 28th January 2021
 
 Result Published in 14th August 2021
 
+
+
 ## সুবর্ণ জয়ন্তী হ্যাকাথন ২০২১
 
 **Result:** **`2nd Runners Up`**
@@ -343,11 +345,13 @@ Event Date: 29-30 October 2022
 
 Result Published: 30 October 2022
 
+Media Coverage: [DigiBangla](https://digibanglatech.news/english/88069/)
+
 
 
 ## BASIS National ICT Award 2022
 
-**Result:** **`Merit`**
+**Result:**  **`Merit Award`**
 
 **Team Name:** BUET_IDRICO
 
@@ -361,6 +365,31 @@ Result Published: 30 October 2022
 4. Rasul Khan Hamim
 5. Emon Roy Bappi
 
-**Result Link:** 
+**Result Link:**  https://bnia.basis.org.bd/win/winner-2022
 
 Result Published in 31th October 2022
+
+
+
+## Inter National Blockchain Olympiad 2022
+
+**Result:**  **`Honourable Mention`**
+
+**Team Name**: Spondon
+
+**Project Name:** A Blockchain Based Approach to Digitalize Health Sector for Better Transparency, Privacy and Security
+
+Team members: 
+
+1. Md. Tamimul Ehsan
+2. Md. Jehadul Karim Sabit
+3. Hasan Masum
+4. Farsia Kawsar Chowdhury
+5. Shorup Chanda
+6. Shelachi Mitra
+
+**Result Link: **
+
+**Media Coverage:**
+
+Result Published in Around Start of November 2022
