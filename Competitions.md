@@ -371,7 +371,7 @@ Result Published in 31th October 2022
 
 
 
-## Inter National Blockchain Olympiad 2022
+## International Blockchain Olympiad 2022
 
 **Result:**  **`Honourable Mention`**
 
@@ -393,3 +393,35 @@ Team members:
 **Media Coverage:**
 
 Result Published in Around Start of November 2022
+
+
+
+## National Undergraduate Math Olympiad 2022 (Dhaka South Regional)
+
+**Result:**  **`5th`**
+
+**Result Link: **
+
+**Media Coverage:**
+
+## Code Samurai 2022
+
+**Result: `1st Runners Up`**
+
+**Team Name:** BUET Storm's End
+
+**Team members:**
+
+1. Hasan Masum
+2. Md. Jehadul Karim Sabit
+3. Mohammad Tamimul Ehsan
+
+**Result link:** 
+
+Event Date: 20-21 December 2022
+
+Result Published: 21 December 2022
+
+Result Link: https://codesamuraibd.net/leader-board
+
+Media Coverage: 

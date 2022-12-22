@@ -18,7 +18,7 @@
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
+- 🔭 ~I’m currently working on a educational platform. Keep an eye for it.~
 - 🌱 I’m currently ~learning Node backend~ preparing for ICPC Dhaka Regionals
 - 👯 ~I’m looking to collaborate on opensource and group projects.~
 <!-- - Usesless Stats:
