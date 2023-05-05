@@ -425,3 +425,43 @@ Result Published: 21 December 2022
 Result Link: https://codesamuraibd.net/leader-board
 
 Media Coverage: 
+
+
+
+# 2023
+
+
+
+## SUST IUPC 2022
+
+**Result:** **`7th`**
+
+**Team Name:** BUET_Wild_Guess
+
+**Team members:**
+
+1. Md. Tamimul Ehsan
+2. Mashroor Hasan Bhuiyan
+3. Rabeya Hossain
+
+**Result Link:** https://toph.co/c/sust-inter-university-2023/standings
+
+Result Published in 4th June 2022
+
+
+
+## ICPC ASIA DHAKA REGIONAL CONTEST 2022
+
+**Result: `26th`**
+
+**Team Name:** BUET_WildGuess
+
+**Team members:**
+
+1. Md. Tamimul Ehsan
+2. Mashroor Hasan Bhuiyan
+3. Rabeya Hossain
+
+**Result Link:** https://algo.codemarshal.org/contests/dhaka-22/standings
+
+Result Published in 11th March 2023
