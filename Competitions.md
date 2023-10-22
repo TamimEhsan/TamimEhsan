@@ -465,3 +465,21 @@ Result Published in 4th June 2022
 **Result Link:** https://algo.codemarshal.org/contests/dhaka-22/standings
 
 Result Published in 11th March 2023
+
+
+
+## ICPC ASIA DHAKA REGIONAL CONTEST 2022
+
+**Result: `8th`**
+
+**Team Name:** BUET_Twilight
+
+**Team members:**
+
+1. Sohaib
+2. Sachin Deb
+3. Md. Tamimul Ehsan
+
+**Result Link:** https://toph.co/c/cou-bracnet-inter-university-2023/standings
+
+Result Published in 16th September 2023
