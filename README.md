@@ -16,9 +16,8 @@
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
 - 💻 I ~like~ **love** coding
-- 🔭 ~I’m currently working on a educational platform. Keep an eye for it.~
-- 🌱 I’m currently ~learning Node backend~ preparing for ICPC Dhaka Regionals
-- 👯 ~I’m looking to collaborate on opensource and group projects.~
+- 🌱 I’m currently preparing for job interview
+- 👯 I’m looking to collaborate on opensource and group projects.
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
 - 📱  Number of times I was approached with an app idea: 7 
@@ -77,9 +76,9 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 -->
 
 ## Live Projects
-
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
 [![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
+[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+
 
 ## Github Overview
 
