@@ -21,7 +21,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
 - 📱  Number of times I was approached with an app idea: 7 
--->
+
  ## Connect with me:
 
 [<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,7 +31,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 [<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br /> 
-
+-->
 ## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
