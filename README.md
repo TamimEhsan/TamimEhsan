@@ -1,4 +1,5 @@
-<!--![Banner](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg) -->
+<h1 align="center">~ Hello there! I'm Tamim ~</h1>
+
 
 [![CF](https://cp-logo.vercel.app/codeforces/TamimEhsan?logo=true)](https://codeforces.com/profile/TamimEhsan)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2vvSha0UzcXMM4lDGJJaYw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
@@ -13,25 +14,10 @@
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at Pridesys IT Ltd. as a Software Engineer. Im currently building a cloud based [microservice] ERP solution for the global market. I've completed my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+> 💡 *I'm open to new opportunities in the domain of backend engineering, systems, micro-services*
 
-- 💻 I ~like~ **love** coding
-- 🌱 I’m currently preparing for job interview
-- 👯 I’m looking to collaborate on opensource and group projects.
-<!-- - Usesless Stats:
-- 🏅 Number of times I was asked to hack a FB : 3
-- 📱  Number of times I was approached with an app idea: 7 
-
- ## Connect with me:
-
-[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-
-<br /> 
--->
+<!--
 ## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -62,23 +48,21 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
-<!--
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br /><br /><br /> 
 -->
-
+## My Tech! 
+- **Languages** - `C++` `Golang` `Java` `Javascript` `SQL` 
+- **Backend** - `Spring Boot` `Node.js` `Express.js`
+- **Frontend** - `React`
+- **Database** - `PostgreSQL` `OracleDB` `MongoDB`
+- **Data Stores** - `Redis` `Kafka`
+- **Tools** - `Git` `Github workflow`
+- **Testing** - `JUnit5` `Mockito` `Gatling` `Testify` `Test Container`
+- **Infra** - `Docker` `Kubernetes` `Linux`
+- **Cloud** - `Azure Cloud Service`
+- **Productivity** - `Jira` `MS Powerpoint` `Adobe Photoshop`
 ## Live Projects
-[![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
-
+[![Algorithm Visualizer](https://img.shields.io/badge/-Algorithm%20Visualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
+[![Interview BD](https://img.shields.io/badge/-Interview%20BD-5672cd?style=flat)](https://tamimehsan.github.io/interview-questions-bangladesh/)
 
 ## Github Overview
 
@@ -123,9 +107,3 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 <!-- Place this tag where you want the button to render. -->
 ⭐<a class="github-button" href="https://github.com/TamimEhsan/TamimEhsan" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star TamimEhsan/TamimEhsan on GitHub">Star this repository</a>
-
-[website]: https://tamimehsan.github.io/
-[instagram]: https://instagram.com/tamim.ehsan
-[facebook]: https://www.facebook.com/tamimul.ehsan.9/
-[codeforces]:https://codeforces.com/profile/TamimEhsan
-[linkedin]:https://www.linkedin.com/in/tamimehsan/
