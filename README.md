@@ -14,7 +14,7 @@
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at Pridesys IT Ltd. as a Software Engineer. Im currently building a cloud based [microservice] ERP solution for the global market. I've completed my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at [BeeQube Inc.](https://books.beeqube.com/) as a Software Engineer. Im currently building a cloud based [microservice] ERP solution for the global market. I've completed my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
 > 💡 *I'm open to new opportunities in the domain of backend engineering, systems, micro-services*
 
 <!--
